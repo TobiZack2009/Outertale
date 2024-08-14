@@ -1,0 +1,22 @@
+- fix mk citadel view bug when sanctuary (happens if use sanctuary when they standin still)
+- look into muffet pet attacks and maybe make patterns a bit more forgiving
+- add crying dog sprite for dogamy lone attack
+- make papyrus and undyne react if you call someone in their dates
+   - papyrus could say go to the balcony to call someone (funny cause menu disabled)
+- allow timeline overdub/append with maybe alt+down-up
+- "glad" mad dummy if get hit in mtt show doesn't reset pain expression
+- give undyne her hair back on dont give up scene
+- add keyboard layout option
+- make grillbys dogs react to spanner throw
+- add alphys lab interaction when backtrack to her after she calls u to go to core
+- The npc that sells you super starwalker #1 could react if you threw the comic away in that room
+- fix twinkly glitchy platform (need fast tick method)
+- focus asriel act in alphys fight can lose effect mid-turn (phase 3?)
+- nerf mushy x attack a bit
+- check final attack of phase 1 alphys for grid warning (no warning of where to potion yourself for grid)
+- make alphys simon says part have slight delay 1-2 frames between transition
+   - make semi transparent before change
+- don't make alphys say "changed your mind?" if you agree to go with asgore after not agreeing
+- make ringflash attack have a small transparent delay when starting to allow extr frames
+- add act menu hint for mtt sigma and alphys
+- papyrus dont react to spaghetti drop/use in house!? (living room)

@@ -1,0 +1,15 @@
+{
+   "build": {
+      "files": [
+         "!**/*",
+         "index.js",
+         "package.json"
+      ]
+   },
+   "devDependencies": {
+      "electron": "15.5.7"
+   },
+   "main": "index.js",
+   "name": "outertale",
+   "version": "5.0.0"
+}
